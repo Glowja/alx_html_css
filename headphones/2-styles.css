@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./images/background\ \(1\).png)
+}
+.icon-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+section h1{
+width: 448px;
+height: 40px;
+color: aliceblue;
+text-align: center;
+justify-content: center;
+}
+section p{
+    width: 637px;
+    height: 104px;
+    text-align: center;
+    color: aliceblue;
+}
+.icon image{
+    height: 190px;
+    width: 190px;
+}
