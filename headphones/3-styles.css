@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section h1{
+    width: 146px;
+    height: 40px;
+}
