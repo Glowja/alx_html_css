@@ -73,7 +73,7 @@ main h1, h2, h3{
     height: 44px;
     background-color: #FF6565;
     border-radius: 20px;
-    align-self: center;
+    justify-content: center;
     margin-top: 30px;
     margin-bottom: 50px;
     
